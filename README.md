@@ -4,9 +4,9 @@ My name is Sophia Wisdom. I find computers fascinating. I write software [as a j
 
 Projects you can find below:
 - Tweaks
-    - MacOS has an extraordinarily flexible and moldable heritage, in Smalltalk (through ObjC) and Mach (through XNU)
-    - This heritage is mostly moldy and disused
-    - The remnants are sufficiently powerful to allow arbitrary code reloading on running applications. Ever wanted to make some small modification to the calendar app, knowing the original authors would never want that? Tweaks is how you do that.
+    - MacOS has an extraordinarily flexible and moldable heritage.
+    - This heritage is mostly moldy and disused.
+    - The remnants are sufficiently powerful to allow arbitrary changes to other people's apps.
 - Stimulator
 - Sillydb
 - fast_du
