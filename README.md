@@ -6,22 +6,11 @@ Projects you can find below:
 - Tweaks
     - MacOS has an extraordinarily flexible and moldable heritage.
     - This heritage is mostly moldy and disused.
-    - The remnants are sufficiently powerful to allow arbitrary changes to other people's apps.
+    - The remnants are sufficiently powerful to allow making your desired changes to other people's apps.
 - Stimulator
+    - Ever wandered around the city, tossing and turning over the most optimal path to your destination? Me too.
+    - Simulates walking in the city and showcases different strategies under user-tunable scenarios to see which is the best.
+    - Gives me peace of mind that I have the best solution.
 - Sillydb
-- fast_du
-
-<!--
-**sophiawisdom/sophiawisdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - Ever been frustrated at the magnitude of waste and annoyance that planet-scale systems cause?
+    - Why not have your database just be on one machine? Sounds pretty nice right? This is that database, tuned for SSD performance.
