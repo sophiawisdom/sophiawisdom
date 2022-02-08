@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Sophia Wisdom. I find computers fascinating. I write software as a job as well as a hobby. Contained here are my hobby projects, which exist mostly to scratch my itches. These were created less for a practical goal than to scratch the itch of creating, or to scratch the itch of making performant software, or to scratch the itch of seeing a thing to be possible and grabbing it. I am heavily inspired by Bret Victor's "Inventing on principle" but am still searching for the principle.
+
+Projects I've worked on:
+* Tweaks
+* Stimulator
+* Sillydb
+* fast_du
+
 <!--
 **sophiawisdom/sophiawisdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
