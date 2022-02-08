@@ -10,7 +10,7 @@ Projects you can find below:
 - Stimulator
     - Ever wandered around the city, tossing and turning over the most optimal path to your destination? Me too.
     - Simulates walking in the city and showcases different strategies under user-tunable scenarios to see which is the best.
-    - Gives me peace of mind that I have the best solution.
+    - Gives me peace of mind that my walking is truly optimal.
 - Sillydb
     - Ever been frustrated at the magnitude of waste and annoyance that planet-scale systems cause?
     - Why not have your database just be on one machine? Sounds pretty nice right? This is that database, tuned for SSD performance.
