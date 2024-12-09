@@ -1,5 +1,7 @@
-I am trying to sell datasets to LLM companies. Contact me at sophia@dataset.consulting if you're interested.
+I am selling code datasets to LLM companies. Contact me at sophia@dataset.consulting if you're interested.
 
-I'm also trying to build a course teaching people how to program GPUs to implement transformers and transformer-adjacent things. Soon I will be able to teach people -- let me know if you're interested in this.
+I am building a course teaching people how to program GPUs. Soon I hope to teach people -- contact me if you want to learn.
 
-I'm interested in learning and understanding. See my website https://girl.surgery for more on this.
+I'm interested in learning and understanding. Contact me if you can help me understand.
+
+See https://girl.surgery for more.
